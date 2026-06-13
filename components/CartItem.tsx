@@ -1,5 +1,5 @@
 'use client';
-
+// este es un comentario creado el 13/06/2026
 import { CartItem as CartItemType } from '@/types';
 import { useCart } from '@/context/CartContext';
 
